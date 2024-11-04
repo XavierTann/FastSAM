@@ -8,6 +8,7 @@ import sys
 import cv2
 import matplotlib
 matplotlib.use('Agg')  # Use non-GUI backend
+import clip
 
 
 class FastSAMPrompt:

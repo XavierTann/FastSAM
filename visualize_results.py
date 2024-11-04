@@ -47,6 +47,8 @@ geo_tiff_path = './images/FastSam_Sample_Image-2.tif'
 image_path = './images/cat.jpg'
 sam.set_image(image_path)
 
+
+
 ### CONVERTING FROM GEO COORDINATES TO PIXEL COORDINATES ###
 # # Load the GeoTIFF file path
 # geo_tiff_path = './images/FastSam_Sample_Image-2.tif'
